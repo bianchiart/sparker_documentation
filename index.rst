@@ -14,8 +14,7 @@ Feel free to contact us to give us tips for new features or troubleshooting.
 
 Contacts
 --------
-* contattoA
-* contattoB
+* luca.gagliardelli@unimore.it
 
 .. toctree::
    :maxdepth: 2 
